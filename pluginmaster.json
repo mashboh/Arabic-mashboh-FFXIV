@@ -1,0 +1,26 @@
+﻿{
+    "TestingAssemblyVersion":  null,
+    "RepoUrl":  "https://github.com/mashboh/Arabic-mashboh-FFXIV",
+    "ApplicableVersion":  "any",
+    "Tags":  [
+                 "translation",
+                 "arabic",
+                 "ui",
+                 "ffxiv"
+             ],
+    "DownloadLinkInstall":  "https://github.com/mashboh/Arabic-mashboh-FFXIV/releases/download/v4.2601.718.2006/Arabic-mashboh-FFXIV.zip",
+    "Description":  "Instant EN→AR translator for FFXIV dialogue and UI. Includes Arabic font support.",
+    "LastUpdate":  "1784714502",
+    "InternalName":  "Echoglossian",
+    "DownloadLinkTesting":  "https://github.com/mashboh/Arabic-mashboh-FFXIV/releases/download/v4.2601.718.2006/Arabic-mashboh-FFXIV.zip",
+    "IsHide":  false,
+    "AssemblyVersion":  "4.2601.718.2006",
+    "DownloadCount":  0,
+    "DalamudApiLevel":  15,
+    "Author":  "mashboh",
+    "IsTestingExclusive":  false,
+    "Name":  "Arabic - mashboh",
+    "IconUrl":  "https://raw.githubusercontent.com/mashboh/Arabic-mashboh-FFXIV/main/images/icon.png",
+    "DownloadLinkUpdate":  "https://github.com/mashboh/Arabic-mashboh-FFXIV/releases/download/v4.2601.718.2006/Arabic-mashboh-FFXIV.zip",
+    "Punchline":  "Translate FFXIV UI and dialogue to Arabic"
+}
