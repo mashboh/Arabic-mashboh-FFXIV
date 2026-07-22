@@ -1,21 +1,24 @@
-﻿# Arabic - mashboh (FFXIV)
+# Arabic - mashboh (FFXIV)
 
-ترجمة نصوص Final Fantasy XIV من الإنجليزية إلى العربية عبر Dalamud / XIVLauncher.
+ترجمة واجهة وحوار Final Fantasy XIV إلى العربية عبر Dalamud.
 
-## تثبيت سريع (لأي لاعب)
+## التثبيت (Custom Plugin Repository)
 
-1. افتح اللعبة مع Dalamud
-2. اكتب `/xlsettings` → تبويب **Experimental**
-3. في **Custom Plugin Repositories** أضف هذا الرابط ثم Enable و Save:
+1. افتح **Dalamud Settings** → **Experimental** → **Custom Plugin Repositories**
+2. أضف هذا الرابط بالضبط:
 
 ```
-https://raw.githubusercontent.com/mashboh/Arabic-mashboh-FFXIV/main/pluginmaster.json
+https://raw.githubusercontent.com/mashboh/Arabic-mashboh-FFXIV/main/repo.json
 ```
 
-4. اكتب `/xlplugins` وابحث عن **Arabic - mashboh** ثم Install
-5. تأكد أن مجلد الخطوط موجود (يأتي مع التثبيت): `Font\NotoSansArabic-Medium.ttf`
+أو (بديل إن لم يعمل الرابط أعلاه):
+
+```
+https://cdn.jsdelivr.net/gh/mashboh/Arabic-mashboh-FFXIV@main/pluginmaster.json
+```
+
+3. احفظ ثم افتح **Plugin Installer** وابحث عن **Arabic - mashboh** وثبّته.
 
 ## ملاحظات
-
-- أول ترجمة تحتاج إنترنت، ثم تُحفظ محلياً في القاموس.
-- هذا مود طرف ثالث — استخدمه على مسؤوليتك.
+- يحتاج Dalamud API 15
+- بعد التثبيت فعّل وضع العربية من إعدادات البلجن
