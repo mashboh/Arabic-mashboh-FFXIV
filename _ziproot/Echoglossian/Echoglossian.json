@@ -1,0 +1,25 @@
+﻿{
+    "Author":  "mashboh",
+    "Name":  "Arabic - mashboh",
+    "InternalName":  "Echoglossian",
+    "AssemblyVersion":  "4.2601.722.1326",
+    "Description":  "ï؛”ï»´ï؛‘ï؛®ï»Œï»ںï؛چ ï»°ï»ںï؛‡ ï؛”ï»³ï؛°ï»´ï» ï؛ ï»§ï»¹ï؛چ ï»¦ï»£ ï؛”ï؛’ï»Œï» ï»ںï؛چ ï؛¹ï»®ï؛¼ï»¨ï»ں ï»±ï؛­ï»®ï»“ ï»¢ï؛ںï؛®ï؛کï»£",
+    "ApplicableVersion":  "any",
+    "Tags":  [
+                 "ffxiv",
+                 "Dalamud",
+                 "plugin",
+                 "translation",
+                 "UI",
+                 "Utility",
+                 "arabic"
+             ],
+    "DalamudApiLevel":  15,
+    "LoadRequiredState":  0,
+    "LoadSync":  false,
+    "CanUnloadAsync":  false,
+    "LoadPriority":  0,
+    "IconUrl":  "file:///F:/steam/steamapps/common/FINAL%20FANTASY%20XIV%20Online/Echoglossian-Dev/images/icon.png",
+    "Punchline":  "ï؛”ï»´ï؛‘ï؛®ï»Œï»ںï؛چ ï»°ï»ںï؛‡ ï؛•ï؛ژï»¬ï؛ںï؛چï»®ï»ںï؛چï»­ ï؛­ï؛چï»®ï؛¤ï»ںï؛چ ï؛”ï»¤ï؛ںï؛®ï؛—",
+    "AcceptsFeedback":  true
+}
