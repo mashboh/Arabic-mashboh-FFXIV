@@ -1,4 +1,4 @@
-﻿# Local publish helpers / staging (not for public repo)
 publish.ps1
 _ziproot/
 _staging/
+dist/*.zip
