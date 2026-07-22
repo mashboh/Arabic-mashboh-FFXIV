@@ -13,4 +13,3 @@ https://raw.githubusercontent.com/mashboh/Arabic-mashboh-FFXIV/main/repo.json
 ```
 
 4. افتح **Plugin Installer** وابحث عن: **Arabic - mashboh**
-5. ثبّته. هذا مود منفصل عن Echoglossian الرسمي.
