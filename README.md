@@ -1,15 +1,17 @@
 # Arabic - mashboh (FFXIV)
 
-ترجمة واجهة وحوار Final Fantasy XIV إلى العربية عبر Dalamud.
+ترجمة واجهة وحوار Final Fantasy XIV إلى العربية + خط عربي اختياري عبر Penumbra.
 
-## التثبيت
+## التثبيت / التحديث
 
-1. اكتب في الشات: `/xlsettings`
-2. تبويب **Experimental** → **Custom Plugin Repositories**
-3. الصق الرابط ثم اضغط زر **+** ثم **Save and Close**:
+1. `/xlsettings` → Experimental → أضف ثم + ثم Save:
 
 ```
-https://raw.githubusercontent.com/mashboh/Arabic-mashboh-FFXIV/main/repo.json
+https://cdn.jsdelivr.net/gh/mashboh/Arabic-mashboh-FFXIV@main/dalamud-repo.json
 ```
 
-4. افتح **Plugin Installer** وابحث عن: **Arabic - mashboh**
+2. Plugin Installer → **Arabic - mashboh** → Install أو Update
+3. ثبّت Penumbra وفعّل Enable Mods
+4. من إعدادات المود فعّل خط العربية (Penumbra)
+
+الإصدار الحالي: 4.2601.723.240
