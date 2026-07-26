@@ -12,11 +12,11 @@
   "IsHide": false,
   "IsTestingExclusive": false,
   "DownloadCount": 0,
-  "LastUpdate": 1785111997,
+  "LastUpdate": 1785112620,
   "DownloadLinkInstall": "https://github.com/mashboh/Arabic-mashboh-FFXIV/releases/download/v4.2601.726.273/Arabic-mashboh-FFXIV.zip",
   "DownloadLinkUpdate": "https://github.com/mashboh/Arabic-mashboh-FFXIV/releases/download/v4.2601.726.273/Arabic-mashboh-FFXIV.zip",
   "DownloadLinkTesting": "https://github.com/mashboh/Arabic-mashboh-FFXIV/releases/download/v4.2601.726.273/Arabic-mashboh-FFXIV.zip",
   "IconUrl": "https://raw.githubusercontent.com/mashboh/Arabic-mashboh-FFXIV/main/images/icon.png",
   "Tags": ["translation", "arabic", "ui", "ffxiv"],
-  "Changelog": "Stop importing Echoglossian legacy dictionary and SQLite. Use only ArabicMashboh dictionary + shared VPS. v4.2601.726.273"
+  "Changelog": "Install zip fixed (files at zip root). No Echoglossian legacy import. v4.2601.726.273"
 }]
