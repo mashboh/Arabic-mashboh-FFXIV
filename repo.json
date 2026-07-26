@@ -4,7 +4,7 @@
   "Punchline": "Translate FFXIV to Arabic",
   "Description": "EN to AR via DeepSeek. Own local dictionary and shared VPS only.",
   "InternalName": "ArabicMashboh",
-  "AssemblyVersion": "4.2601.726.274",
+  "AssemblyVersion": "4.2601.726.275",
   "TestingAssemblyVersion": null,
   "RepoUrl": "https://github.com/mashboh/Arabic-mashboh-FFXIV",
   "ApplicableVersion": "any",
@@ -12,11 +12,11 @@
   "IsHide": false,
   "IsTestingExclusive": false,
   "DownloadCount": 0,
-  "LastUpdate": 1785113455,
-  "DownloadLinkInstall": "https://github.com/mashboh/Arabic-mashboh-FFXIV/releases/download/v4.2601.726.274/Arabic-mashboh-FFXIV.zip",
-  "DownloadLinkUpdate": "https://github.com/mashboh/Arabic-mashboh-FFXIV/releases/download/v4.2601.726.274/Arabic-mashboh-FFXIV.zip",
-  "DownloadLinkTesting": "https://github.com/mashboh/Arabic-mashboh-FFXIV/releases/download/v4.2601.726.274/Arabic-mashboh-FFXIV.zip",
+  "LastUpdate": 1785113824,
+  "DownloadLinkInstall": "https://github.com/mashboh/Arabic-mashboh-FFXIV/releases/download/v4.2601.726.275/Arabic-mashboh-FFXIV.zip",
+  "DownloadLinkUpdate": "https://github.com/mashboh/Arabic-mashboh-FFXIV/releases/download/v4.2601.726.275/Arabic-mashboh-FFXIV.zip",
+  "DownloadLinkTesting": "https://github.com/mashboh/Arabic-mashboh-FFXIV/releases/download/v4.2601.726.275/Arabic-mashboh-FFXIV.zip",
   "IconUrl": "https://raw.githubusercontent.com/mashboh/Arabic-mashboh-FFXIV/main/images/icon.png",
   "Tags": ["translation", "arabic", "ui", "ffxiv"],
-  "Changelog": "No translation without DeepSeek API key. Reject Arabic visual-order dictionary keys. v4.2601.726.274"
+  "Changelog": "Removed locked literary Arabic DeepSeek prompt; use stock default. v4.2601.726.275"
 }]
