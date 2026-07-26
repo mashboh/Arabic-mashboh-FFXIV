@@ -1,0 +1,4 @@
+# Arabic-mashboh shared AutoTranslator dictionary (GitHub)
+# Format: Original=Translation
+# Escape: \= for equals, \n for newline, \\ for backslash
+# Players sync this file automatically via the plugin.
